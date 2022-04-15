@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/soumen-samanta-91866b1b3/#gh-light-mode-only)
+[![Linked](https://t4.ftcdn.net/jpg/03/00/69/75/240_F_300697599_deERy1Im2Z7qblan9namvzRNpT3XFO1i.jpg)](https://www.linkedin.com/in/soumen-samanta-91866b1b3/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/soumen-samanta-91866b1b3/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/_soumen_24._/#gh-light-mode-only)
@@ -22,7 +22,7 @@
 
 ### Technologies Worked with
 
-
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40" title="R"/>
@@ -38,5 +38,5 @@
  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" title="MongoDB"/>
  
 
-
+</p>
 
