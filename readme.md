@@ -13,12 +13,12 @@
 
 ### Connect with me:
 
-[![Linked](https://t4.ftcdn.net/jpg/03/00/69/75/240_F_300697599_deERy1Im2Z7qblan9namvzRNpT3XFO1i.jpg)](https://www.linkedin.com/in/soumen-samanta-91866b1b3/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/soumen-samanta-91866b1b3/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/_soumen_24._/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/_soumen_24._/#gh-dark-mode-only)
-     
+<a href="https://www.linkedin.com/in/soumen-samanta-91866b1b3">
+<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/_soumen_24._/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<br>
 
 ### Technologies Worked with
 
