@@ -10,7 +10,7 @@
  
 - ✨ I am currently learning everything 🤣
 - 🥅 2022 Goals : Contribute More towards Open Source!
-- 
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/soumen-samanta-91866b1b3">
