@@ -3,7 +3,7 @@
 ## I am a It Student ,Footballer, Musician, Developer and Learner! 
 
 
-- 🎉 Check out on the sessions i conducted 🎉:
+- 🎉 Check out on the sessions I conducted 🎉:
      - [Python Basic Track ](https://youtu.be/LPxRDsN_6Ts?t=7894)
      - [Month Of Mern  Day 0](https://youtu.be/VVMAMCRFHTA?t=3976)
      - [Month of Mern Day 1](https://youtu.be/2KzZYDhAgs4?t=5145)  
@@ -16,7 +16,10 @@
 <a href="https://www.linkedin.com/in/soumen-samanta-91866b1b3">
 <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/_soumen_24._/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/_soumen_24._/">
+<img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/SoumenS86561967">
+<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 
 <br>
 
