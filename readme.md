@@ -3,7 +3,7 @@
 ## I am a It Student ,Footballer, Musician, Developer and Learner! 
 
 
-- 🎉 Check out on the sessions i conducted 🎉:
+- 🎉 Check out on the sessions I conducted 🎉:
      - [Python Basic Track ](https://youtu.be/LPxRDsN_6Ts?t=7894)
      - [Month Of Mern  Day 0](https://youtu.be/VVMAMCRFHTA?t=3976)
      - [Month of Mern Day 1](https://youtu.be/2KzZYDhAgs4?t=5145)  
