@@ -16,8 +16,10 @@
 <a href="https://www.linkedin.com/in/soumen-samanta-91866b1b3">
 <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/_soumen_24._/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/SoumenS86561967"><img height="30" src=https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/_soumen_24._/">
+<img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/SoumenS86561967">
+<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 
 <br>
 
