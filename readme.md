@@ -28,7 +28,9 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
+     <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ " width="40" height="40" title="C++"/>
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40" title="R"/>
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter" width="45" height="40" title="Jupyter"/> 
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" title="MySQL"/>  
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/>
  
