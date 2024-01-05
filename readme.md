@@ -9,7 +9,7 @@
      - [Month of Mern Day 1](https://youtu.be/2KzZYDhAgs4?t=5145)  
  
 - ✨ I am currently learning everything 🤣
-- 🥅 2022 Goals : Contribute More towards Open Source!
+- 🥅 2024 Goals : Contribute More towards Open Source!
 
 ### Connect with me:
 
